@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/dicee-app.git
+[git clone https://github.com/your-username/dicee-app.git](https://github.com/senones/Dicee)
 Open the project in your favorite code editor.
 
 Open index.html in a web browser to play the game.
