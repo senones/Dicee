@@ -8,6 +8,9 @@ Winner Determination: The winner is determined based on the higher dice roll.
 Play Button: Users can initiate a new game by clicking the "Play" button.
 
 
+![image](https://github.com/senones/Dicee/assets/59428039/639e8474-514b-4dd6-be36-28948af15d15)
+
+
 Getting Started
 Clone the repository:
 
